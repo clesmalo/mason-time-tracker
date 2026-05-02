@@ -78,6 +78,6 @@ Catalog data (companies, employees, projects, tasks) is cached in Pinia state af
 
 ## AI Usage
 
-This project was built in collaboration with Claude (Anthropic). The AI conversation export is included in the repository as `ai-conversation.json`.
+This project was built in collaboration with Claude (Anthropic). The AI conversation export is included in the repository as `ai-conversation.jsonl`.
 
 The AI was used for code generation under my direction. Architectural decisions, UX reasoning, and implementation choices were made by me and explained throughout the conversation — which I'd encourage you to read as part of evaluating this submission.
